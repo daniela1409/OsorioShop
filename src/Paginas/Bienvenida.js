@@ -1,11 +1,11 @@
 import React from 'react';
-import Welcome from '../componentes/Welcome';
+import Principal from '../componentes/Principal';
 
 class Bienvenida extends React.Component{
 
     render(){
         return(
-            <Welcome/>
+            <Principal/>
 
             /*<Card 
                 Producto="Computadora"

@@ -6,10 +6,7 @@ import Bienvenida from './Paginas/Bienvenida'
 
 import reportWebVitals from './reportWebVitals';
 
-const user = {
-  nombre: 'Daniela',
-  Edad: '26'
-}
+
 
 ReactDOM.render(
   <React.StrictMode>
