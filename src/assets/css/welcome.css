@@ -1,0 +1,20 @@
+.card{
+    background: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    margin-top: 15%;
+}
+
+.card-header{
+    align-content: center;
+}
+
+.card input{
+    color: gray;
+}
+
+button{
+    background: #009B94;
+    border-color: white;
+}
