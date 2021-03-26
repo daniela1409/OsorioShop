@@ -1,10 +1,16 @@
 #card{
     border: none;
     border-radius: 8px;
-    width: 50%;
-    position: absolute;
-    text-align: center;
+    width: 100%;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
     
+}
+
+img{
+    width: 150px;
+    height: 150px;
 }
 
 #header {
@@ -14,23 +20,5 @@
 }
 #body{
     width: 100%;
-    padding-left: 0;
-    padding-right: 75px;
     background: lightgray;
-}
-.Fitness-Card-Info h1{
-    font-size: 23px;
-    color: white;
-}
-.Fitness-Card-Info p{
-    font-size: 11px;
-    color: white;
-}
-.Fitness-Add {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 80px;
-    height: 60px;
 }

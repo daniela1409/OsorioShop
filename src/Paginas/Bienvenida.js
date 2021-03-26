@@ -5,8 +5,9 @@ class Bienvenida extends React.Component{
 
     render(){
         return(
-            <Principal/>
-
+            <div>
+                <Principal/>
+            </div>
             /*<Card 
                 Producto="Computadora"
                 valor = "3000000"

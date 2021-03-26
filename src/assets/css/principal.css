@@ -14,7 +14,12 @@
     color: gray;
 }
 
-button{
-    background: #009B94;
+#boton{
+    background-color: white;
     border-color: white;
+}
+
+#lupa{
+    width: 40px;
+    height: 40px;
 }
